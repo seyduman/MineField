@@ -1,0 +1,49 @@
+C:\Users\Coelho\Desktop\MineField Game\MineField Game\bin\Debug\MineField Game.exe
+C:\Users\Coelho\Desktop\MineField Game\MineField Game\bin\Debug\MineField Game.pdb
+C:\Users\Coelho\Desktop\MineField Game\MineField Game\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Coelho\Desktop\MineField Game\MineField Game\obj\Debug\MineField_Game.Properties.Resources.resources
+C:\Users\Coelho\Desktop\MineField Game\MineField Game\obj\Debug\MineField Game.csproj.GenerateResource.Cache
+C:\Users\Coelho\Desktop\MineField Game\MineField Game\obj\Debug\MineField Game.exe
+C:\Users\Coelho\Desktop\MineField Game\MineField Game\obj\Debug\MineField Game.pdb
+C:\Users\Coelho\Desktop\MineField Game\MineField Game\obj\Debug\MineField_Game.frmGame.resources
+C:\Users\Coelho\Desktop\MineField Game\MineField Game\obj\Debug\MineField_Game.frmAbout.resources
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\MineField Game\MineField Game\obj\Debug\MineField Game.exe
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\MineField Game\MineField Game\obj\Debug\MineField Game.pdb
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\MineField Game\MineField Game\bin\Debug\MineField Game.exe
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\MineField Game\MineField Game\bin\Debug\MineField Game.pdb
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\MineField Game\MineField Game\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\MineField Game\MineField Game\obj\Debug\MineField_Game.frmAbout.resources
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\MineField Game\MineField Game\obj\Debug\MineField_Game.frmGame.resources
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\MineField Game\MineField Game\obj\Debug\MineField_Game.Properties.Resources.resources
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\MineField Game\MineField Game\obj\Debug\MineField Game.csproj.GenerateResource.Cache
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField Game.exe
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField Game.pdb
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\MineField (Mayın Tarlası) Game\MineField Game\bin\Debug\MineField Game.exe
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\MineField (Mayın Tarlası) Game\MineField Game\bin\Debug\MineField Game.pdb
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\ResolveAssemblyReference.cache
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField_Game.frmAbout.resources
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField_Game.frmGame.resources
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField_Game.Properties.Resources.resources
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ortega\Desktop\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\bin\Debug\MineField Game.exe
+C:\Users\Ortega\Desktop\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\bin\Debug\MineField Game.pdb
+C:\Users\Ortega\Desktop\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField_Game.frmGame.resources
+C:\Users\Ortega\Desktop\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField_Game.Properties.Resources.resources
+C:\Users\Ortega\Desktop\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField Game.csproj.GenerateResource.cache
+C:\Users\Ortega\Desktop\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField Game.csproj.CoreCompileInputs.cache
+C:\Users\Ortega\Desktop\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField Game.exe
+C:\Users\Ortega\Desktop\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField Game.pdb
+C:\Users\Ortega\Desktop\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField_Game.FormOnizleme.resources
+C:\Users\Ortega\Desktop\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField Game.csprojAssemblyReference.cache
+C:\Users\Samsung\Documents\4.sınıf\2. donem\vize odevleri tum dersler\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\bin\Debug\MineField Game.exe
+C:\Users\Samsung\Documents\4.sınıf\2. donem\vize odevleri tum dersler\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\bin\Debug\MineField Game.pdb
+C:\Users\Samsung\Documents\4.sınıf\2. donem\vize odevleri tum dersler\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField Game.csprojAssemblyReference.cache
+C:\Users\Samsung\Documents\4.sınıf\2. donem\vize odevleri tum dersler\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField_Game.Form1.resources
+C:\Users\Samsung\Documents\4.sınıf\2. donem\vize odevleri tum dersler\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField_Game.FormOnizleme.resources
+C:\Users\Samsung\Documents\4.sınıf\2. donem\vize odevleri tum dersler\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField_Game.frmGame.resources
+C:\Users\Samsung\Documents\4.sınıf\2. donem\vize odevleri tum dersler\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField_Game.Properties.Resources.resources
+C:\Users\Samsung\Documents\4.sınıf\2. donem\vize odevleri tum dersler\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField Game.csproj.GenerateResource.cache
+C:\Users\Samsung\Documents\4.sınıf\2. donem\vize odevleri tum dersler\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField Game.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Documents\4.sınıf\2. donem\vize odevleri tum dersler\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField Game.exe
+C:\Users\Samsung\Documents\4.sınıf\2. donem\vize odevleri tum dersler\MineField-Mayın-Tarlası-Game\MineField (Mayın Tarlası) Game\MineField Game\obj\Debug\MineField Game.pdb
